@@ -17,7 +17,7 @@ Student: Mireille Walton, Email: mmj649@gmail.com
 
 ## Important project notes
 
-I have made use of the jupyter notebook as well as application DB Browser for SQLite.app to inspect the dataset.  In some cases, the information obtained was for use in Part 2 of the project - a note has been included where this is the case.  
+I have made use of the jupyter notebook as well as application DB Browser for SQLite.app to inspect the dataset.  In some cases, the information obtained was for use in Part 2 of the project - a note has been included within the jupyter notebook where this is the case.  
 
 Some licence has been taken within Part 2 of the project in terms of the results that are displayed within the Chrome browser.  Where this is the case, additional information has been provided above that which is specified in the project instructions (ie Preciptiation data, where a join has been used to return certain data from each of the tables in the data set), or slightly altered to return the specified results based on slightly different parameters (ie TOBS data from specified date, where min, avg and max temps are provided grouped by weather station).   
 
